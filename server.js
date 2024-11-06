@@ -11,7 +11,7 @@ const mongoose = require('mongoose');
 const PORT = process.env.PORT || 3000;  // Set up the port for the server to listen on (default is 3000)
 
 
-mongoose.connect('mongodb+srv://rehansaleem99:Cinema4D@rscluster.qs6zypc.mongodb.net/', {
+mongoose.connect('', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
