@@ -1,2 +1,4 @@
 # NBA-Analytics
-Platform to analyze live NBA player stats
+Created an NBA statistics platform using Node.js, Express.js, Flask, MongoDB, and integrated third-party APIs.
+
+Implemented a machine learning algorithm for predictive analysis, achieving 85% model accuracy.
